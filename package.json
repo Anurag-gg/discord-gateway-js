@@ -1,0 +1,15 @@
+{
+  "name": "gateway-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules main.js"
+  },
+  "author": "hitnut",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
